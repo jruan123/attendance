@@ -3,7 +3,7 @@
 We are going to check our attendance today with the use of GitHub repository.
 Failure to add a checkmark to your name means you are absent today =).
 
-To add a checkmark, replace the [ ] with [x]
+To add a checkmark, replace the [ ] with [x] inside the README.md file
 
 - [x] Chung, Sam
 
