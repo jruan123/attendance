@@ -22,7 +22,7 @@ To add a checkmark, replace the [ ] with [x] inside the README.md file
 - [ ] Bui, Thinh
 - [ ] Ali, Rohan
 - [ ] Chinnusami, Chithiraikkayalvizhi
-- [x] Ngo, Clark Jason
+- [ ] Ngo, Clark Jason
 - [ ] Cheng, Yuge
 - [ ] Kmail, Ahmed H
 - [ ] He, Weichao
