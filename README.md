@@ -30,7 +30,7 @@ To add a checkmark, replace the [ ] with [x] inside the README.md file
 - [ ] Yang, Jianchen
 - [ ] Wu, Shang
 - [ ] Liu, ZhiHao
-- [X] Wang, Peng
+- [ ] Wang, Peng
 - [ ] Chen, Kevin Kuanting
 - [ ] Vaidyanathan, Amrutha
 - [ ] Ren, Junxin
