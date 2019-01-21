@@ -14,7 +14,7 @@ To add a checkmark, replace the [ ] with [x] inside the README.md file
 - [ ] Patel, Bindi
 - [ ] Pande, Sayalee Sanjay
 - [ ] Ruan, Jianwei
-- [X] Tran, Tuan Khai
+- [ ] Tran, Tuan Khai
 - [ ] Agarwal, Richa
 - [ ] Liu, Jianting
 - [ ] Xing, Jianhao
@@ -22,11 +22,11 @@ To add a checkmark, replace the [ ] with [x] inside the README.md file
 - [ ] Bui, Thinh
 - [ ] Ali, Rohan
 - [ ] Chinnusami, Chithiraikkayalvizhi
-- [X] Ngo, Clark Jason
+- [ ] Ngo, Clark Jason
 - [ ] Cheng, Yuge
 - [ ] Kmail, Ahmed H
 - [ ] He, Weichao
-- [x] Wang, Yuliang
+- [ ] Wang, Yuliang
 - [ ] Yang, Jianchen
 - [ ] Wu, Shang
 - [ ] Liu, ZhiHao
@@ -34,4 +34,3 @@ To add a checkmark, replace the [ ] with [x] inside the README.md file
 - [ ] Chen, Kevin Kuanting
 - [ ] Vaidyanathan, Amrutha
 - [ ] Ren, Junxin
-- [x] Nguyen, Minh Truong
