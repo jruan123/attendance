@@ -16,7 +16,7 @@ To add a checkmark, replace the [ ] with [x] inside the README.md file
 - [ ] Ruan, Jianwei
 - [ ] Tran, Tuan Khai
 - [ ] Agarwal, Richa
-- [ ] Liu, Jianting
+- [x] Liu, Jianting
 - [ ] Xing, Jianhao
 - [ ] Dasary, Vineeth Rakesh
 - [ ] Bui, Thinh
