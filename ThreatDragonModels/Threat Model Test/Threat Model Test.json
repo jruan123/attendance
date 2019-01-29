@@ -4,7 +4,11 @@
     "owner": "Clark"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Clark"
+      }
+    ],
     "diagrams": [
       {
         "title": "Diagram Test",
