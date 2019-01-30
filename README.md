@@ -13,7 +13,7 @@ To add a checkmark, replace the [ ] with [x] inside the README.md file
 - [ ] Phan, Dat
 - [ ] Patel, Bindi
 - [ ] Pande, Sayalee Sanjay
-- [ ] Ruan, Jianwei
+- [x ] Ruan, Jianwei
 - [ ] Tran, Tuan Khai
 - [ ] Agarwal, Richa
 - [ ] Liu, Jianting
