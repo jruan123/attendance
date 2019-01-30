@@ -34,3 +34,4 @@ To add a checkmark, replace the [ ] with [x] inside the README.md file
 - [ ] Chen, Kevin Kuanting
 - [ ] Vaidyanathan, Amrutha
 - [ ] Ren, Junxin
+- [v] Nguyen, Minh
