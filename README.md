@@ -21,8 +21,8 @@ To add a checkmark, replace the [ ] with [x] inside the README.md file
 - [ ] Dasary, Vineeth Rakesh
 - [ ] Bui, Thinh
 - [ ] Ali, Rohan
-- [ ] Chinnusami, Chithiraikkayalvizhi
-- [x] Ngo, Clark Jason
+- [x] Chinnusami, Chithiraikkayalvizhi
+- [ ] Ngo, Clark Jason
 - [ ] Cheng, Yuge
 - [ ] Kmail, Ahmed H
 - [ ] He, Weichao
@@ -31,6 +31,7 @@ To add a checkmark, replace the [ ] with [x] inside the README.md file
 - [ ] Wu, Shang
 - [ ] Liu, ZhiHao
 - [ ] Wang, Peng
-- [ ] Chen, Kevin Kuanting
-- [ ] Vaidyanathan, Amrutha
-- [ ] Ren, Junxin
+- [x] Chen, Kevin Kuanting
+- [x] Vaidyanathan, Amrutha
+- [x] Ren, Junxin
+- [X] Nguyen, Minh
