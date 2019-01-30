@@ -20,7 +20,7 @@ To add a checkmark, replace the [_] with [x] inside the README.md file
 - [ ] Xing, Jianhao
 - [ ] Dasary, Vineeth Rakesh
 - [ ] Bui, Thinh
-- [ ] Ali, Rohan
+- [x] Ali, Rohan
 - [x] Chinnusami, Chithiraikkayalvizhi
 - [ ] Ngo, Clark Jason
 - [x] Cheng, Yuge
