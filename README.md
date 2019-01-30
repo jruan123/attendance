@@ -12,7 +12,7 @@ To add a checkmark, replace the [ ] with [x] inside the README.md file
 - [ ] Kim, Min Sup
 - [ ] Phan, Dat
 - [ ] Patel, Bindi
-- [ ] Pande, Sayalee Sanjay
+- [v] Pande, Sayalee Sanjay
 - [ ] Ruan, Jianwei
 - [ ] Tran, Tuan Khai
 - [ ] Agarwal, Richa
@@ -23,7 +23,7 @@ To add a checkmark, replace the [ ] with [x] inside the README.md file
 - [ ] Ali, Rohan
 - [ ] Chinnusami, Chithiraikkayalvizhi
 - [ ] Ngo, Clark Jason
-- [ ] Cheng, Yuge
+- [v] Cheng, Yuge
 - [ ] Kmail, Ahmed H
 - [ ] He, Weichao
 - [ ] Wang, Yuliang
