@@ -8,7 +8,7 @@ To add a checkmark, replace the [x] with [x] inside the README.md file
 - [x] Chung, Sam
 
 - [ ] Patel, Janki
-- [ ] Chuaphan, Apiwat
+- [x] Chuaphan, Apiwat
 - [ ] Kim, Min Sup
 - [ ] Phan, Dat
 - [ ] Patel, Bindi
