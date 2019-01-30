@@ -11,7 +11,7 @@ To add a checkmark, replace the [x] with [x] inside the README.md file
 - [ ] Chuaphan, Apiwat
 - [ ] Kim, Min Sup
 - [ ] Phan, Dat
-- [ ] Patel, Bindi
+- [X] Patel, Bindi
 - [x] Pande, Sayalee Sanjay
 - [ ] Ruan, Jianwei
 - [x] Tran, Tuan Khai
